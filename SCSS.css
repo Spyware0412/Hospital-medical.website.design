@@ -61,4 +61,10 @@ nav a:hover i {
 
 .sea:hover a {
   display: none;
-}/*# sourceMappingURL=SCSS.css.map */
+}
+@media only screen and (max-width: 878px) {
+    body {
+      background-size: 200%;
+    }
+  }
+/*# sourceMappingURL=SCSS.css.map */
